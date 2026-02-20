@@ -82,8 +82,8 @@
 .order-btn,
 .hero-cta,
 .send-btn {
-  background: #fff;
-  color: #000;
+  background: linear-gradient(120deg, var(--brand), var(--brand));
+  color: #fff4ea;
   text-decoration: none;
   cursor: pointer;
 }

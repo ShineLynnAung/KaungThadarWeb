@@ -174,7 +174,7 @@ function App() {
           {statusMessage && <p className="status-text">{statusMessage}</p>}
         </form>
 
-        <p className="copyright">Copyright © 2023 Siam Soul Thai Food Shop. All rights reserved.</p>
+        <p className="copyright">Copyright © {new Date().getFullYear()} Kaung Thadar. All rights reserved.</p>
       </footer>
     </main>
   )
